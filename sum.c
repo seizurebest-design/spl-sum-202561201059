@@ -4,7 +4,7 @@
 
 int main(void)
 {
-    int a, b;
+    int a, b; // input: two integers separated by a space
     scanf("%d %d", &a, &b);
     printf("Sum = %d\n", a + b);
     return 0;
