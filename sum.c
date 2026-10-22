@@ -1,0 +1,11 @@
+// Sum of two integers
+// Written by Shanto, 202561201059
+#include <stdio.h>
+
+int main(void)
+{
+    int a, b;
+    scanf("%d %d", &a, &b);
+    printf("%d\n", a + b);
+    return 0;
+}
